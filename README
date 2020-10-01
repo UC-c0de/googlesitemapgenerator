@@ -1,4 +1,4 @@
-=== Google Sitemap Generator ===
+==== Google Sitemap Generator ====
 
 --- Installation ---
 See doc/gsg-installation.html
@@ -56,7 +56,7 @@ Users can build a binary from source by themselves. There are two steps.
 --- Build Under Windows ---
 0) Prerequisite:
   a) Microsoft Windows SDK 6.0
-  b) Microsfot Visual Studio 2005
+  b) Microsoft Visual Studio 2005
   c) Set Windows SDK 6.0 as the default platform SDK in Visual Studio 2005.
      It can be set in Tools->Options->Project and Solutions->VC++ Directories.
 
